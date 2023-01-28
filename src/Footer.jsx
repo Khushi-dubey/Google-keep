@@ -5,7 +5,7 @@ function Footer(){
     return(
         <>
             <footer>
-                <span className="footerText">Made by S.M.Abtahi Noor. © {year}</span>
+                <span className="footerText">Made by Khushi © {year}</span>
             </footer>
         </>
     )
